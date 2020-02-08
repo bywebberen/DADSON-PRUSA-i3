@@ -31,7 +31,7 @@ Extruder assembly
 4	M3_10mm_buttonhead	X_endstopmount	Only if not setting up sensorless homing
 2	M3_nut	X_endstopmount	Only if not setting up sensorless homing
 			
-	From Prusa Manual		
+	From Prusa Manual https://manual.prusa3d.com/c/Original_Prusa_i3_MK3_kit_assembly		
 			
 1	Bondtech pulley WITHOUT the hole for the lock screw		
 2	Pulley bearing		
