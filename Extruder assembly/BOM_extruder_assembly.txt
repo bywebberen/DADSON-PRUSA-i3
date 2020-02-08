@@ -1,0 +1,67 @@
+Extruder assembly			
+	Printed Parts		
+	Cable Holder		
+	BL_touch_spacer 1mm		
+	Extruder body_SpiderHotend		
+	Extruder Cover_SpiderHotend		
+	Extruder Idler Plug		
+	Extruder Idler		
+	Filament Sensor Cover		
+	InletPartFan		
+	Nozzle Fan Holder		
+	Nozzle Fan		
+	x_endstopMount_back		Only if not setting up sensorless homing
+	X-carriage Back		
+	X-carriage		
+			
+	Electronic/mechanical parts		
+3	LM8UU		
+1	Nema17 E_stepper		
+1	Bondtech gear set Complete		
+1	Parts cooling fan radial 12 volt		
+1	40mm cooling fan 12 or 24 volt 		
+1	BL touch kit		
+1	Spiderhotend/CR10 hotend		https://3deksperten.dk/all-metal-spiderhotend-kit-black-edition-for-creality.html
+1	Standard reprap endstopswitch		Only if not setting up sensorless homing
+			
+	Bolts and Nuts bywebberen printhead		
+4	M3_20mm	Spiderhotend+BL_touch	
+4	M3_nut	Spiderhotend+BL_touch	
+			
+4	M3_10mm_buttonhead	X_endstopmount	Only if not setting up sensorless homing
+2	M3_nut	X_endstopmount	Only if not setting up sensorless homing
+			
+	From Prusa Manual		
+			
+1	Bondtech pulley WITHOUT the hole for the lock screw		
+2	Pulley bearing		
+2	M3 squarenut		
+			
+	NO filamentsensor on the DADSON PRUSA i3 (we dont do backup, we cry instead)		
+			
+2	M3_nut		
+1	M3_30mm		
+2	M3 nylon washer		https://www.banggood.com/Suleve-MXNW2-100pcs-M2-M3-M4-M5-White-Nylon-Flat-Washer-Gasket-Thickness-1mm-p-1262022.html?rmmds=search&ID=514519&cur_warehouse=CN
+2	M3_30mm		
+2	M3_40mm		
+2	Small Compression Springs 5/8"\15mm Long x 3/16"\5mm OD		https://www.ebay.co.uk/itm/Small-Compression-Springs-5-8-15mm-Long-x-3-16-5mm-OD-10-Pcs-Fast-Ship/324044838918?hash=item4b7293d806:g:AXEAAOSwSw1eAfTd
+3	M3 squarenut		
+2	M3_25mm		
+4	M3_18mm		
+1	M3_18mm		
+2	M3_10mm		
+1	M3_nut		
+			
+	Install the BL_touch instead		
+			
+1	M3_40mm		
+1	M3_30mm		
+1	M3_18mm		
+1	Nylon 3mm filament about 1 meter		
+1	M3_nut		
+1	M3_10mm		
+1	M3_40mm		
+5	M3_10mm		
+			
+1	PTFE tube 4x2x13 mm		
+2	M3_10mm		
