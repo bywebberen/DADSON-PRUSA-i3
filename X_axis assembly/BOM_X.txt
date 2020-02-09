@@ -1,0 +1,4 @@
+Use the Original Prusa manual
+
+If you use the brass leadscrew, you need some M3_10mm and some Snuts/SquareNuts for the adaptor
+ 
