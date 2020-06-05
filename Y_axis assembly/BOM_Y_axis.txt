@@ -1,36 +1,37 @@
 First Part of assembly		
-Pcs.	Description	
-		
-8	M5 30mm	Bolts					Hardware
-8	M5 20mm	Bolts					Hardware
-2	2040 Vslot 120mm(214x214mm buildplate)		Hardware
-2	2040 Vslot 205mm(214x214mm buildplate)		Hardware
-2	2040 Vslot 150mm(220x280mm buildplate)		Hardware
-2	2040 Vslot 240mm(220x280mm buildplate)		Hardware
-1	12mm plywood cutouts				DXF_file
-1	Endstopholder					Printed Part (if not using sensorless homing)
-1	Endstopswitch					Electronics  (if not using sensorless homing)
-4	Rodmounts					Printed Part
-2	337mm - 8mm steelrods(214x214mm buildplate)	Hardware
-2	402mm - 8mm steelrods(220x280mm buildplate)	Hardware
-5	V-slot Tnuts (for PSU)				Hardware
-2	V-slot Tnuts (for SKR-v1.3 box)			Hardware
-4	v-slot Tnuts (for Stabilazers)			Hardware
-3	LM8UU Bearings					Hardware
-3	Mount/Nests for LM8UU				Printed Part
-3	NestSecurer 					Printed Part
-6	M3 10mm bolts for NestSecurer			Hardware
-6	M3 Squarenuts for Mount/Nests			Hardware
-3	4x1mm Zipties					Hardware (not really necessary)
-1	GT2 belt					Hardware
-1	Idler Y-axis					Printed Part
-1	MotorMount Y-axis				Printed Part
-4	M3_20mm (motor - Idler)				Hardware
-1	Nema17 Stepper motor				Electronics
-1	Idler Wheel					Hardware
-1	GT2 16T Pulley 5mmBore				Hardware
-1	Beltholder					Printed Part
-2	M3_18mm (for betlholder)			Hardware
+1 	Main wood frame
+2 	2040 vslot extrusions 205mm
+2 	2040 vslot extrusions 120mm
+8 	M5 by 25mm bolts
+8 	M5 by 20mm bolts
+3 	LM8UU Bearings
+2 	8mm by 330mm steelrods
+4 	rodmounts printed parts
+10 	slidein Tnuts
+2 	stabilizers printed parts
+4 	M5 by 8mm low profile bolts
+4 	3.5mm woodscrews buttonhead
+3 	M3 self locking hexnuts
+1 	idler mount
+1 	GT2 idler pulley
+1 	M3 by 20mm bolt
+2  	M3 hexnuts
+1 	Motormount printed part
+1 	nema17 stepper motor
+2 	M3 by 10mm bolts
+1 	16 teeth GT2 pulley
+4 	M3 by 18mm bolts
+4 	M3 washers
+3 	LM8UU nests printed part
+6 	M3 squarenuts
+3 	nests securer
+6 	M3 by 10mm bolts
+1 	bedmount wood piece
+1 	beltmount printed part
+1 	GT2 belt
+2 	M3 by 25mm bolts
+2 	M3 washers
+(this first piece-BOM was updated along with building of this part!)
 		
 	X -AXIS	
 	Build as Prusa-manual	https://manual.prusa3d.com/c/Original_Prusa_i3_MK3S_kit_assembly
