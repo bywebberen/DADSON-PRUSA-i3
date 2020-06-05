@@ -1,47 +1,51 @@
 First Part of assembly		
 Pcs.	Description	
 		
-8	M5 30mm	Hardware
-8	M5 20mm	Hardware
-2	2040 Vslot 120mm(214x214mm buildplate)	Hardware
-2	2040 Vslot 205mm(214x214mm buildplate)	Hardware
-2	2040 Vslot 150mm(220x280mm buildplate)	Hardware
-2	2040 Vslot 240mm(220x280mm buildplate)	Hardware
-1	12mm plywood cutouts	DXF_file
-1	Endstopholder	Printed Part
-1	Endstopswitch	Electronics
-4	Rodmounts	Printed Part
+8	M5 30mm	Bolts					Hardware
+8	M5 20mm	Bolts					Hardware
+2	2040 Vslot 120mm(214x214mm buildplate)		Hardware
+2	2040 Vslot 205mm(214x214mm buildplate)		Hardware
+2	2040 Vslot 150mm(220x280mm buildplate)		Hardware
+2	2040 Vslot 240mm(220x280mm buildplate)		Hardware
+1	12mm plywood cutouts				DXF_file
+1	Endstopholder					Printed Part (if not using sensorless homing)
+1	Endstopswitch					Electronics  (if not using sensorless homing)
+4	Rodmounts					Printed Part
 2	337mm - 8mm steelrods(214x214mm buildplate)	Hardware
 2	402mm - 8mm steelrods(220x280mm buildplate)	Hardware
-5	V-slot Tnuts (til PSU)	Hardware
-2	V-slot Tnuts (til SKR-v1.3 box)	Hardware
-3	LM8UU Bearings	Hardware
-3	Mount/Nests for LM8UU	Printed Part
-3	4x1mm Zipties	Hardware
-1	GT2 belt	Hardware
-1	Idler Y-akse	Printed Part
-1	MotorMount Y-akse	Printed Part
-4	M3_20mm (motor - Idler)	Hardware
-1	Nema17 Stepper motor	Electronics
-1	Idler Wheel	Hardware
-1	GT2 16T Pulley 5mmBore	Hardware
-1	Beltholder	Printed Part
-2	M3_25mm (for betlholder)	Hardware
+5	V-slot Tnuts (for PSU)				Hardware
+2	V-slot Tnuts (for SKR-v1.3 box)			Hardware
+4	v-slot Tnuts (for Stabilazers)			Hardware
+3	LM8UU Bearings					Hardware
+3	Mount/Nests for LM8UU				Printed Part
+3	NestSecurer 					Printed Part
+6	M3 10mm bolts for NestSecurer			Hardware
+6	M3 Squarenuts for Mount/Nests			Hardware
+3	4x1mm Zipties					Hardware (not really necessary)
+1	GT2 belt					Hardware
+1	Idler Y-axis					Printed Part
+1	MotorMount Y-axis				Printed Part
+4	M3_20mm (motor - Idler)				Hardware
+1	Nema17 Stepper motor				Electronics
+1	Idler Wheel					Hardware
+1	GT2 16T Pulley 5mmBore				Hardware
+1	Beltholder					Printed Part
+2	M3_18mm (for betlholder)			Hardware
 		
 	X -AXIS	
 	Build as Prusa-manual	https://manual.prusa3d.com/c/Original_Prusa_i3_MK3S_kit_assembly
 		
 	Z-AXIS	
-6	M3_20mm motormount for 12mm woodframe	Hardware
-6	M3 Washers	Hardware
-6	M3 nuts	Hardware
+6	M3_20mm (motormount for 12mm woodframe)		Hardware
+6	M3 Washers					Hardware
+6	M3 nuts						Hardware
 4	S-nut/square nuts for AcmeLeadCrew mount	Hardware
-2	Acme Adaptor (if brassNut)	Printed Part
-2	Acme Møtrikker	Hardware
-4	M3 møtrikker	Hardware
-4	M3 18mm (for Acme Adaptor)	Hardware
-4	M3 8mm acmenutTop	Hardware
-4	M3 20mm TopRodMount	Hardware
-4	M3 Spændeskiver	Hardware
-4	M3 Møtrikker	Hardware
-1	GT2 Belt	Hardware
+2	Acme Adaptor (if brassNut)			Printed Part
+2	Acme Nuts					Hardware
+4	M3 Nuts						Hardware
+4	M3 18mm (for Acme Adaptor)			Hardware
+4	M3 8mm (acmenut Top)				Hardware
+4	M3 20mm (for TopRodMount)			Hardware
+4	M3 Washer					Hardware
+4	M3 Nuts						Hardware
+1	GT2 Belt					Hardware
