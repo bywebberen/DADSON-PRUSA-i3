@@ -25,7 +25,7 @@ pcs.	Description.
 4 	M3 washers
 3 	LM8UU nests printed part
 6 	M3 squarenuts
-3 	nests securer
+3 	nests securer printed part
 6 	M3 by 10mm bolts
 1 	bedmount wood piece
 1 	beltmount printed part
