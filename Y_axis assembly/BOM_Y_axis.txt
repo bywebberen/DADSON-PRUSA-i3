@@ -9,6 +9,8 @@ pcs.	Description.
 2 	8mm by 330mm steelrods
 4 	rodmounts printed parts
 10 	slidein Tnuts
+1	Backplate wood
+1	Frontplate wood
 2 	stabilizers printed parts
 4 	M5 by 8mm low profile bolts
 4 	3.5mm woodscrews buttonhead
