@@ -34,6 +34,7 @@ pcs.	Description.
 1 	GT2 belt
 2 	M3 by 25mm bolts
 2 	M3 washers
+4	Rubberfeets(NinjaFlex)
 (this first piece-BOM was updated along with building of this part!)
 		
 	X -AXIS	
