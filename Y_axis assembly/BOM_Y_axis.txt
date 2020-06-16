@@ -7,34 +7,35 @@ pcs.	Description.
 8 	M5 by 20mm bolts
 3 	LM8UU Bearings
 2 	8mm by 330mm steelrods
-4 	rodmounts printed parts
-10 	slidein Tnuts
+4 	Rodmounts printed part
+10 	Slide-in Tnuts
 1	Backplate wood
 1	Frontplate wood
-2 	stabilizers printed parts
+2 	Stabilizers printed part
 4 	M5 by 8mm low profile bolts
 4 	3.5mm woodscrews buttonhead
 3 	M3 self locking hexnuts
-1 	idler mount
+1 	Idlermount printed part
 1 	GT2 idler pulley
 1 	M3 by 20mm bolt
 2  	M3 hexnuts
 1 	Motormount printed part
-1 	nema17 stepper motor
+1 	Nema17 stepper motor
 2 	M3 by 10mm bolts
 1 	16 teeth GT2 pulley
 4 	M3 by 18mm bolts
 4 	M3 washers
 3 	LM8UU nests printed part
 6 	M3 squarenuts
-3 	nests securer printed part
+3 	Nests-securer printed part
 6 	M3 by 10mm bolts
-1 	bedmount wood piece
-1 	beltmount printed part
+1 	Bedmount wood piece
+1 	Beltmount printed part
 1 	GT2 belt
 2 	M3 by 25mm bolts
 2 	M3 washers
 4	Rubberfeets(NinjaFlex)
+
 (this first piece-BOM was updated along with building of this part!)
 		
 	X -AXIS	
