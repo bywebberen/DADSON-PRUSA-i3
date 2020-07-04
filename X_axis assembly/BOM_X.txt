@@ -1,4 +1,19 @@
-Use the Original Prusa manual
+Pcs   Description             Type
+1     X-end motormount        Printed part
+1     X-end idlermount        Printed part
+4     LM8UU linear bearings   Hardware
+1     M3 by 18mm bolt         Hardware
+1     M3 Nylocnut             Hardware
+1     Idler for GT2 belt      Hardware
+1     M3 S-nut/squarenut      Hardware
+1     M3 by 18mm bolt         Hardware
+2     8mm by 370mm steelrod   Hardware
+3     LM8UU linear bearings   Hardware
+1     NEMA17 steppermotor     Hardware
+1     16T GT2-pulley          Hardware
+3     M3 by 18mm bolts        Hardware
+1     X-carriage              Printed part
+5     M3 S-nut/squarenut      Hardware
+2     Zip-Ties                Hardware
 
-If you use the brass leadscrew, you need some M3_10mm and some Snuts/SquareNuts for the adaptor
- 
+You should be able to just follow the original Prusa MK3 manual for this
