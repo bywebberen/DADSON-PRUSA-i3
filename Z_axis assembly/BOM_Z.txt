@@ -1,5 +1,10 @@
-M3_20mm for mounting printed parts in 12mm frame
+Bill Of Materials
 
-10 pcs
+pcs.      Description                                   Type
+1         Z-axis-bottom-left                            Printed part
+1         Z-axis-bottom-right                           Printed part
+6         M3 by 20mm bolt                               Hardware
+2         Nema17 steppermottors w/ leadscrew 320mm      Hardware
+2         Nema17 "ConeTop" pieces                       Printed part
+8         M3 by 10mm                                    Hardware
 
-Other than that - use standard PRUSA manual
