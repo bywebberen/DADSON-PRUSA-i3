@@ -4,7 +4,17 @@ pcs.      Description                                   Type
 1         Z-axis-bottom-left                            Printed part
 1         Z-axis-bottom-right                           Printed part
 6         M3 by 20mm bolt                               Hardware
+6         M3 Washers                                    Hardware
+6         M3 Hexnuts (preferable selflocking )          Hardware
 2         Nema17 steppermottors w/ leadscrew 320mm      Hardware
 2         Nema17 "ConeTop" pieces                       Printed part
 8         M3 by 10mm                                    Hardware
-
+4         M3 Hexnuts                                    Hardware
+4         M3 by 10mm                                    Hardware
+4         M3 by 15mm "buttonhead/low profile" bolts     Hardware
+4         M3 Squarenuts/Snuts                           Hardware
+2         8mm by 320mm steelrods                        Hardware 
+1         Z-axis-top-left                               Printed part
+1         Z-axis-top-right                              Printed part
+4         M3 by 20mm bolts                              Hardware
+-         GT2 timingbelt                                Hardware
