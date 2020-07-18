@@ -11,6 +11,7 @@ Pcs	Description				Type
 	but you still need to do step 7 [2 times M3 hexnuts])
 1	M3 by 30mm bolt				Hardware
 2	M3 Washers				Hardware
+1	M3 Hexnut (temporarily use)		Hardware
 1	Nema17 Steppermotor			Hardware
 1	Bondtech-Style pulley(with hole)	*Hardware
 	* Buy it as a set online "Bondtech dual gear drive"
@@ -47,7 +48,7 @@ Pcs	Description				Type
 5	M3 by 10mm bolts			Hardware
 1	Textile Sleeve (>> 500mm)		Hardware
 5	Zip-Ties				Hardware
-1	Idleer-plug				Printed part
+1	Idler-plug				Printed part
 1	Filament-sensor-cover			Printed part
 1	PTFE tube 13mm lenght			Hardware
 2	M3 by 10mm bolts			Hardware
