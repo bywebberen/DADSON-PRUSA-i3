@@ -25,12 +25,12 @@ Pcs	Description				Type
 1	SpiderHotend assembled with heat+Therm.	Hardware
 	(Hotend is same style as CR10 printer)
 1	45mm PTFE tube (capricorn)		Hardware
-4	M3 by 18mm bolts			Hardware
+4	M3 by 15mm bolts			Hardware
 1	40mm Hotend fan 12v			Hardware
 1	Radial-fan for partcooling		Hardware
 1	Nozzlefan-45deg-support			Printed part
 1	Nozzlefan (in ASA filament, for heat)	Printed part
-1	M3 by 18mm bolt				Hardware
+1	M3 by 25mm bolt				Hardware
 2	M3 by 10mm bolts			Hardware
 1	M3 Hexnut				Hardware
 1	Induction sensor (12mm width)		Hardware
@@ -52,3 +52,7 @@ Pcs	Description				Type
 1	Filament-sensor-cover			Printed part
 1	PTFE tube 13mm lenght			Hardware
 2	M3 by 10mm bolts			Hardware
+1	Cable restrain				Printed part
+2	M3 by 20mm bolts			Hardware
+2	M3 washers				Hardware
+2	M3 hexnuts				Hardware	
