@@ -48,13 +48,14 @@ Pcs	Description				Type
 1	M3 by 10mm bolt	(temporarily use)	Hardware
 1	M3 by 40mm bolt				Hardware
 5	M3 by 10mm bolts			Hardware
-1	Textile Sleeve (>> 500mm)		Hardware
-5	Zip-Ties				Hardware
-1	Idler-plug				Printed part
-1	Filament-sensor-cover			Printed part
-1	PTFE tube 13mm lenght			Hardware
-2	M3 by 10mm bolts			Hardware
 1	Cable restrain				Printed part
 2	M3 by 20mm bolts			Hardware
 2	M3 washers				Hardware
-2	M3 hexnuts				Hardware	
+2	M3 hexnuts				Hardware
+1	Filament-sensor-cover			Printed part
+1	PTFE tube 13mm lenght			Hardware
+2	M3 by 10mm bolts			Hardware
+(the last of the parts will be used in a later video)
+1	Textile Sleeve (>> 500mm)		Hardware
+5	Zip-Ties				Hardware
+1	Idler-plug				Printed part
