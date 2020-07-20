@@ -1,6 +1,6 @@
 LCD assembly Bill Of Materials
 
-Pcs	  Description				      Type
+Pcs   Description             Type
 1	    LCD screen              Eletronics
 2	    LCD cables (EXP1+EXP2)  Electronics
 1	    LCD cover               Printed part
