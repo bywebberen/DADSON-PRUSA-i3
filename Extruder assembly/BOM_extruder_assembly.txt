@@ -25,6 +25,8 @@ Pcs	Description				Type
 1	SpiderHotend assembled with heat+Therm.	Hardware
 	(Hotend is same style as CR10 printer)
 1	45mm PTFE tube (capricorn)		Hardware
+2	M3 by 20mm bolts			Hardware
+2	M3 hexnuts				Hardware
 4	M3 by 15mm bolts			Hardware
 1	40mm Hotend fan 12v			Hardware
 1	Radial-fan for partcooling		Hardware
