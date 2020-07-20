@@ -34,7 +34,7 @@ Pcs	Description				Type
 1	Nozzlefan (in ASA filament, for heat)	Printed part
 1	M3 by 25mm bolt				Hardware
 2	M3 by 10mm bolts			Hardware
-1	M3 Hexnut				Hardware
+2	M3 Hexnut				Hardware
 1	Induction sensor (12mm width)		Hardware
 1	M3 by 15mm(18mm will do fine)		Hardware
 1	M3 Snuts/squarenuts			Hardware
