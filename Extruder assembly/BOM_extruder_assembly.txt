@@ -55,7 +55,7 @@ Pcs	Description				Type
 1	Filament-sensor-cover			Printed part
 1	PTFE tube 13mm lenght			Hardware
 2	M3 by 10mm bolts			Hardware
+1	Idler-plug				Printed part
 (the last of the parts will be used in a later video)
 1	Textile Sleeve (>> 500mm)		Hardware
 5	Zip-Ties				Hardware
-1	Idler-plug				Printed part
