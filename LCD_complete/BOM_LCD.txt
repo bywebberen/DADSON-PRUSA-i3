@@ -9,3 +9,4 @@ Pcs Description             Type
 4   M3 by 20mm bolts        Hardware
 4   M3 Squarenuts           Hardware
 4   ClipForLCDwires         Printed part
+2   M3 by 10mm              Hardware
