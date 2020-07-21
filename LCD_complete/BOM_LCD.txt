@@ -8,3 +8,4 @@ Pcs     Description               Type
 2	    LCD support             Printed part
 4	    M3 by 20mm bolts        Hardware
 4	    M3 Squarenuts           Hardware
+4     ClipForLCDwires         Printed part
