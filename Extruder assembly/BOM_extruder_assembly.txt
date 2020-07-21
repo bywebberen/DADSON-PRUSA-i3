@@ -59,3 +59,4 @@ Pcs	Description				Type
 (the last of the parts will be used in a later video)
 1	Textile Sleeve (>> 500mm)		Hardware
 5	Zip-Ties				Hardware
+	Additional zip-ties			Hardware
