@@ -6,6 +6,6 @@ Pcs Description             Type
 1   LCD cover               Printed part
 1   LCD knob                Printed part
 2   LCD support             Printed part
-4   M3 by 20mm boltsHardware
-4   M3 SquarenutsHardware
-4   ClipForLCDwiresPrinted part
+4   M3 by 20mm bolts        Hardware
+4   M3 Squarenuts           Hardware
+4   ClipForLCDwires         Printed part
