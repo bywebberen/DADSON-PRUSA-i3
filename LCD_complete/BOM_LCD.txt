@@ -3,9 +3,9 @@ LCD assembly Bill Of Materials
 Pcs Description             Type
 1   LCD screen              Eletcronics
 2   LCD cables (EXP1+EXP2)  Electronics
-1   LCD coverPrinted part
-1   LCD knobPrinted part
-2   LCD supportPrinted part
+1   LCD cover               Printed part
+1   LCD knob                Printed part
+2   LCD support             Printed part
 4   M3 by 20mm boltsHardware
 4   M3 SquarenutsHardware
 4   ClipForLCDwiresPrinted part
