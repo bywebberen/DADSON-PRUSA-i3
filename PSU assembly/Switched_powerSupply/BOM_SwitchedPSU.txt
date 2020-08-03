@@ -13,8 +13,8 @@ pcs     Description                                                             
 2       M3 by 30mm bolts                                                                                Hardware
 
 (Optional - for extra top mounting in 2040 extrusion)
-2M5 by 8mm low-profile boltsHardware
-2M5 Drop-in T-nutsHardware
+2M5 by 8mm low-profile bolts                                                                            Hardware
+2M5 Drop-in T-nuts                                                                                      Hardware
 
 Wires to connect 230v to PSU + wires for secondary 12/24volt out
 
