@@ -1,20 +1,20 @@
 Bill Of Material for the switched PSU version
 
-pcs.	Description                                                                                     Type
-1     Switched "LED" powersupply                                                                      Electronics
-1		  10A 250V 3Pin IEC320 C14 Inlet Module Plug Fuse With Switch Male Power Socket                   Electronics
-1		  Main_PSU_mount																	                                                Printed part
-1		  Main_PSU_lid																	                                                  Printed part
-1		  1224VoltOut																		                                                  Printed part
-2		  2040_PSU_anchor_(A+B)															                                              Printed part
-4		  M5 by 20mm low-profile bolts 													                                          Hardware
-2-6		M4 by 10mm bolts																                                                Hardware
-2		  M3 Hexnuts																		                                                  Hardware
-2		  M3 by 30mm bolts																                                                Hardware
+pcsDescriptionType
+1Switched "LED" powersupplyElectronics
+110A 250V 3Pin IEC320 C14 Inlet Module Plug Fuse With Switch Male Power SocketElectronics
+1Main_PSU_mountPrinted part
+1Main_PSU_lidPrinted part
+11224VoltOutPrinted part
+22040_PSU_anchor_(A+B)Printed part
+4M5 by 20mm low-profile boltsHardware
+2-6M4 by 10mm boltsHardware
+2M3 HexnutsHardware
+2M3 by 30mm boltsHardware
 
 (Optional - for extra top mounting in 2040 extrusion)
-2		  M5 by 8mm low-profile bolts														                                          Hardware
-2		  M5 Drop-in T-nuts																                                                Hardware
+2M5 by 8mm low-profile boltsHardware
+2M5 Drop-in T-nutsHardware
 
 Wires to connect 230v to PSU + wires for secondary 12/24volt out
 
