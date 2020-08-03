@@ -1,22 +1,22 @@
 Bill Of Material for the switched PSU version
 
-pcs.	Description																		Type
-1		Switched "LED" powersupply														Electronics
-1		10A 250V 3Pin IEC320 C14 Inlet Module Plug Fuse With Switch Male Power Socket	Electronics
-1		Main_PSU_mount																	Printed part
-1		Main_PSU_lid																	Printed part
-1		1224VoltOut																		Printed part
-2		2040_PSU_anchor_(A+B)															Printed part
-4		M5 by 20mm low-profile bolts 													Hardware
-2-6		M4 by 10mm bolts																Hardware
-2		M3 Hexnuts																		Hardware
-2		M3 by 30mm bolts																Hardware
+pcs.	Description                                                                                     Type
+1     Switched "LED" powersupply                                                                      Electronics
+1		  10A 250V 3Pin IEC320 C14 Inlet Module Plug Fuse With Switch Male Power Socket                   Electronics
+1		  Main_PSU_mount																	                                                Printed part
+1		  Main_PSU_lid																	                                                  Printed part
+1		  1224VoltOut																		                                                  Printed part
+2		  2040_PSU_anchor_(A+B)															                                              Printed part
+4		  M5 by 20mm low-profile bolts 													                                          Hardware
+2-6		M4 by 10mm bolts																                                                Hardware
+2		  M3 Hexnuts																		                                                  Hardware
+2		  M3 by 30mm bolts																                                                Hardware
 
 (Optional - for extra top mounting in 2040 extrusion)
-2		M5 by 8mm low-profile bolts														Hardware
-2		M5 Drop-in T-nuts																Hardware
+2		  M5 by 8mm low-profile bolts														                                          Hardware
+2		  M5 Drop-in T-nuts																                                                Hardware
 
-wires to connect 230v to PSU + wires for secondary 12/24volt out
+Wires to connect 230v to PSU + wires for secondary 12/24volt out
 
 
 10A 250V 3Pin IEC320 C14 Inlet Module Plug Fuse With Switch Male Power Socket:
