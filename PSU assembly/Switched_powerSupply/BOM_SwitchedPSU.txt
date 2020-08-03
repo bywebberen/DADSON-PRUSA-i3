@@ -1,7 +1,7 @@
 Bill Of Material for the switched PSU version
 
-pcsDescriptionType
-1Switched "LED" powersupplyElectronics
+pcs     Description                                                                                     Type
+1       Switched "LED" powersupply                                                                      Electronics
 110A 250V 3Pin IEC320 C14 Inlet Module Plug Fuse With Switch Male Power SocketElectronics
 1Main_PSU_mountPrinted part
 1Main_PSU_lidPrinted part
