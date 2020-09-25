@@ -36,10 +36,6 @@ pcs.	Description.
 2 	M3 washers
 4	Rubberfeets(NinjaFlex)
 
-(this first piece-BOM was updated along with building of this part!)
-		
-	X -AXIS	
-	Build as Prusa-manual	https://manual.prusa3d.com/c/Original_Prusa_i3_MK3S_kit_assembly
 		
 	Z-AXIS	
 6	M3_20mm (motormount for 12mm woodframe)		Hardware
