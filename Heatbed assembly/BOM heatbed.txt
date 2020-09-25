@@ -1,7 +1,9 @@
-2 pcs M3_20mm for Y belt holder
-
-4 pcs M3_22mm for heated bed
-
-3 pcs 1-4mm zipties for LM8UU-nests
-
-4 pcs aluminium spacers (openbuilds M5) 10x6mm (6mm is height)
+1	Heated bed (with wires)
+4	M3 by 25mm bolts
+4	M3 selflocking nuts
+4	M3 washers
+4	Aluminium spacers 6mm
+1	Cable restraint
+	(printed part)
+1	50cm 3mm nylonfilament
+3	Zip ties
