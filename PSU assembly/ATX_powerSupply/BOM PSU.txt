@@ -1,2 +1,5 @@
 pcs.    Description                     Type
+1       ATX powersupply                 Electronic
 4-5     M5 by 8mm low-profile bolts     Hardware
+1       PSU mount1                      Printed part
+1       PSU mount2                      Printed part
