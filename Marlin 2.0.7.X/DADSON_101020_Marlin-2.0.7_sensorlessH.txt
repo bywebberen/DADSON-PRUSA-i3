@@ -4,5 +4,7 @@ This build of marlin is for 214x214mm buildplates with TMC2209 stepperdrivers
 using sensorless homing
 
 
+The Z probe pin is P2.00 and therefor it is the signalpin on the "servo" connection on the SKR v1.3
+
 Link for MarlinBuild
 https://drive.google.com/open?id=19d8vQTwo8REEqHLvOK4Tu8jBGWPWlq3k
