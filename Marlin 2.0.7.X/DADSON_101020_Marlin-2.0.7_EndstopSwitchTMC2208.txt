@@ -1,0 +1,9 @@
+Version 2.0.7.1
+
+This build of marlin is for 220x280mm buildplates( changed in conf.h file) with TMC2208_STANDALONE stepperdrivers
+Change to your likings
+
+The Z probe pin is P2.00 and therefor it is the signalpin on the "servo" connection on the SKR v1.3
+
+Link to Marlin build:
+https://drive.google.com/open?id=1U_XUHzq6do-gX9W-HXUWlr1Z7rwNKt9W
