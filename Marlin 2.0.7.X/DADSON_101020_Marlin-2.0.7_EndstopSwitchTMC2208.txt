@@ -4,6 +4,7 @@ This build of marlin is for 220x280mm buildplates( changed in conf.h file) with 
 Change to your likings
 
 The Z probe pin is P2.00 and therefor it is the signalpin on the "servo" connection on the SKR v1.3
+And you can connect the E0 heaterFan to the E1 output, Pin 2.04 (it will turn on after 50 degrees Celcius)
 
 Link to Marlin build:
-https://drive.google.com/open?id=1U_XUHzq6do-gX9W-HXUWlr1Z7rwNKt9W
+https://drive.google.com/file/d/1G3Ktq_PJmEUHaXaBstG5J5qicqULFmpt/view?usp=sharing
