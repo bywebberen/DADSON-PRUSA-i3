@@ -1,4 +1,4 @@
-Version 2.0.7.1
+Version 2.0.7.2
 
 This build of marlin is for 220x280mm buildplates( changed in conf.h file) with TMC2208_STANDALONE stepperdrivers
 Change to your likings
