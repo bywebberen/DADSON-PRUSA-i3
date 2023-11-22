@@ -5,6 +5,8 @@ If you found this useful, please donate what you think it is worth to my paypal.
 Thanks, Enjoy!
 http://www.paypal.me/bywebberen
 
+Update 22.11.2023 - Added in an extruder assembly for the X1C bambulab hotend clone or real (remember this heater is running 24 volt)
+
 Update 10.09.2020 — The Clip-on piece was actually uploaded...! Find it in X-axis folder named: "Homing_Block_sensorless homing.stl"
 
 Update 29.08.2020 — There is a new motor piece for the X-axis part, if you haven't already printed it?
